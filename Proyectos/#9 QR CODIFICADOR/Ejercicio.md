@@ -1,6 +1,6 @@
-# PROYECTO #1 - ADIVINA EL NÚMERO 
+# PROYECTO #9 - QR CODIFICADOR
 
-Bienvenido al proyecto Nº1 
+Bienvenido al proyecto Nº9
 ---
 ### COPIA LA INSTRUCCIÓN Y PEGALA EN TU ARCHIVO PYTHON.
 
