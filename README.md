@@ -5,7 +5,7 @@
 **Python es** uno de los lenguajes más versatiles que existen y puede ser usado en muchos campos diferentes, desde videojuegos hasta aplicaciones móviles. Además, es fácil de aprender por su sitaxis clara y legible. Python es muy popular y utilizado en Data Science y Machine Learning. **¡Espero que esto te motive para darle con todo y no parar!🔥😃**
 
 ### Soy [cusanotech](https://linktr.ee/cusanotech) y estos 🔟 proyectos ayudaran a que pongas en practica tus habilidades en Python. 
-> #### Subo cuestionarios en Python diariamente para que mejores tu lógica en programación. Ingresa a mí [grupo de developers](https://t.me/CusanoTechDev).
+> #### Tienes quiz en Python diariamente para que mejores tu lógica en programación. Ingresa a mí [grupo de developers](https://t.me/CusanoTechDev).
 
 ## Recordatorio:
 
