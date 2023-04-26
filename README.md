@@ -20,15 +20,25 @@
 - Seguir a [CusanoTech](https://linktr.ee/cusanotech) y enviarle tu opinion sobre su contenido 😄
 ---
 ## #PROYECTOS <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/>
-- **#1**   **[`ADIVINA EL NUMERO`]()** / [Mi SOLUCIÓN]()/ <br>
-- **#2** **[`PASSWORD GENERATOR`]()** / [Mi SOLUCIÓN]()/ <br>
-- **#4** **[`PROMEDIO DE NOTAS`]()** / [Mi SOLUCIÓN]() /<br>
-- **#5** **[`CONTADOR DE LETRAS`]()** / [Mi SOLUCIÓN]()/ <br>
-- **#6** **[`CONVERSOR DE MONEDAS`]()** / [Mi SOLUCIÓN]() /<br>
-- **#7**  **[`PIEDRA, PAPEL O TIJERA`]()** / [Mi SOLUCIÓN]()/ <br>
-- **#8**  **[`CALCULADORA`]()** / [Mi SOLUCIÓN]()/ <br>
-- **#9** **[`TEMPORIZADOR DE CUENTA REGRESIVA`]()** / [MI SOLUCIÓN]()/ <br>
-- **#10** **[`QR CODIFICADOR`]()** / [MI SOLUCIÓN]() <br>
+- **#1**   **[`ADIVINA EL NUMERO`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%231%20ADIVINA%20EL%20NUMERO/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes)/ <br>
+
+- **#2** **[`PASSWORD GENERATOR`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%232%20PASSWORD%20GENERATOR/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes)/ <br>
+
+- **#3** **[`PROMEDIO DE NOTAS`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%233%20PROMEDIO%20DE%20NOTAS/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes) /<br>
+
+- **#4** **[`CONTADOR DE LETRAS`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%234%20CONTADOR%20DE%20LETRAS/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes)/ <br>
+
+- **#5** **[`CONVERSOR DE MONEDAS`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%235%20CONVERSOR%20DE%20MONEDAS/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes) /<br>
+
+- **#6**  **[`PIEDRA, PAPEL O TIJERA`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%236%20PIEDRA%2C%20PAPEL%20O%20TIJERA/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes)/ <br>
+
+- **#7**  **[`CALCULADORA`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%237%20CALCULADORA/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes)/ <br>
+
+- **#8** **[`TEMPORIZADOR DE CUENTA REGRESIVA`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%238%20TEMPORIZAR%20DE%20CUENTA%20REGRESIVA/Ejercicio.md)** / [MI SOLUCIÓN]()/ <br>
+
+- **#9** **[`QR CODIFICADOR`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%239%20QR%20CODIFICADOR/Ejercicio.md)** / [MI SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes) <br>
+
+- **#10** **[`PROXIMAMENTE`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%2310%20PROXIMAMENTE/Ejercicio.md)** / [MI SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes) <br>
 
 
 > #### NOTA FINAL: Todos los proyectos tienen su explicación detallada. Sube tus resultados a cada proyecto haciendo un "FORK" al repositorio. [Aquí te explico como](https://github.com/cusanotech/Proyectos-Python-Principiantes/blob/main/Proyectos/Bienvenida.md).
