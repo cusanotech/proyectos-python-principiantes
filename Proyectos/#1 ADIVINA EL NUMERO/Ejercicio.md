@@ -26,7 +26,7 @@ Bienvenido al proyecto Nº1
 ```
 Comparte con la comunidad tu solución al proyecto. <br>
 - ¿No sabes cómo? [Aquí te explico como](https://github.com/cusanotech/Proyectos-Python-Principiantes/blob/main/Proyectos/Bienvenida.md). <br>
-- ¿Quieres ver mi solución? [Aqui la tienes]()
+- ¿Quieres ver mi solución? [Aqui la tienes](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%231%20ADIVINA%20EL%20NUMERO/cusanotech.py)
 
 ---
 ### En mi perfil tienes todos mis enlaces y más contenido creado para ti.. <br>
