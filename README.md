@@ -20,7 +20,7 @@
 - Seguir a [CusanoTech](https://linktr.ee/cusanotech) y enviarle tu opinion sobre su contenido 😄
 ---
 ## #PROYECTOS <img src="./images/Logotipo-Trasparente.png" alt="Logotipo Cusanotech" width="35" height="35"/>
-- **#1**   **[`ADIVINA EL NUMERO`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%231%20ADIVINA%20EL%20NUMERO/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes)/ <br>
+- **#1**   **[`ADIVINA EL NUMERO`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%231%20ADIVINA%20EL%20NUMERO/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%231%20ADIVINA%20EL%20NUMERO/cusanotech.py)/ <br>
 
 - **#2** **[`PASSWORD GENERATOR`](https://github.com/cusanotech/proyectos-python-principiantes/blob/main/Proyectos/%232%20PASSWORD%20GENERATOR/Ejercicio.md)** / [Mi SOLUCIÓN](https://github.com/cusanotech/proyectos-python-principiantes)/ <br>
 
